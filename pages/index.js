@@ -13,7 +13,8 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-         hai iam with git injection commands
+        Hai iam P.Sangeetha 
+        p for pandhi
         </h1>
 
         <p className={styles.description}>
