@@ -13,8 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-        Hai iam P.Sangeetha 
-        p for pandhi
+        Hai all welcome to smart shop tech
         </h1>
 
         <p className={styles.description}>
